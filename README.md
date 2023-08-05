@@ -61,6 +61,8 @@
  <b>In Part 2, we will use a Python script to automate adding mass amounts of malicious IP addresses from a csv file.</b>
 <br />
 
+<p align="center">
+<b>View Part 2 Here: https://github.com/kevinnyeo/FirewallAutomation </b><br/>
 
 
 
