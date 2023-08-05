@@ -1,7 +1,10 @@
 <h1>Microsoft Windows Defender And Firewall</h1>
 
 <h2>Description:</h2>
-Project consists of basic navigation of Microsoft Windows Security Virus and Threat Protection settings, running Microsoft Windows Defender Antivirus Quick Scan and configuring Microsoft Windows Firewall Rules to recognize common security threats and risks.
+
+- <b>Basic navigation of Microsoft Windows Security Virus and Threat Protection settings</b> 
+- <b>Running Microsoft Windows Defender Antivirus Quick Scan</b>
+- <b>Configuring Microsoft Windows Firewall Rules to recognize common security threats and risks.</b>
 <br />
 
 
@@ -12,17 +15,17 @@ Project consists of basic navigation of Microsoft Windows Security Virus and Thr
 
 <h2>Environments Used: </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch Windows Security Application: <br/>
+<img src="https://i.imgur.com/a/DjynpKU.png" height="80%" width="80%" />
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" />
 <br />
 
 </p>
